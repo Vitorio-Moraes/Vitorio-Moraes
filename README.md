@@ -1,6 +1,6 @@
 # 👨‍💻 Vitório Moraes
 
-Sou acadêmico do 9º período de Ciência da Computação na Universidade Estadual do Oeste do Paraná (UNIOESTE). Atuo com foco em desenvolvimento de jogos utilizando Roblox Studio, trabalhando com programação em **Lua**, modelagem de sistemas interativos, design de gameplay e integração de assets para criar experiências otimizadas na plataforma Roblox. Tenho familiaridade com versionamento de código, pipelines de desenvolvimento e práticas de game design voltadas à usabilidade e performance.
+Sou acadêmico do 9º período de Ciência da Computação na Universidade Estadual do Oeste do Paraná (UNIOESTE). Atuo com foco em desenvolvimento de jogos para plataforma Roblox, trabalhando com programação em **Luau**, modelagem de sistemas interativos, design de gameplay e integração de assets para criar experiências otimizadas na plataforma Roblox. Tenho familiaridade com versionamento de código, pipelines de desenvolvimento e práticas de game design voltadas à usabilidade e performance.
 
 ---
 
